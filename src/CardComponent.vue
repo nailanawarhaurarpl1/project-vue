@@ -1,7 +1,9 @@
 <template>
+    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
+
+    <div class="grid md:grid-cols-3 gap-4">
     
-    <table width="90%" align="center"><tr>
-        <th>
+   
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <center>
     <a href="#">
@@ -22,8 +24,7 @@
         </a>
     </div>
 </div>
-</th>
-<th>
+
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     
     <center>
@@ -45,8 +46,7 @@
         </a>
     </div>
 </div>
-</th>
-<th>
+
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     
     <center>
@@ -68,14 +68,11 @@
         </a>
     </div>
 </div>
-</th>
-    </tr>
+    
    
-</table ><br><br>
 
-<table width="90%" align="center">
-    <tr>
-        <th>
+
+
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     
     <center>
@@ -97,14 +94,13 @@
         </a>
     </div>
 </div>
-</th>
-<th>
+
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     
     <center>
     <a href="#">
         
-        <img class="rounded-t-lg " src="https://i0.wp.com/hewania.com/wp-content/uploads/2022/01/YOBURATO.png?resize=300%2C300&ssl=1">
+        <img class="rounded-t-lg " src="https://i0.wp.com/hewania.com/wp-content/uploads/2022/01/YOBURATO.png?resize=300%2C300&ssl=1" >
     </a></center>
     <div class="p-5">
         <a href="#">
@@ -119,8 +115,7 @@
         </a>
     </div>
 </div>
-</th>
-<th>
+
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     
     <center>
@@ -142,7 +137,7 @@
         </a>
     </div>
 </div>
-</th>
-    </tr>
-</table><br><br><br><br>
+    
+</div>
+</div>
 </template>
